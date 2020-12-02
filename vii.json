@@ -678,6 +678,26 @@
                         }]
                 }, 
                 {
+                 "animation":[
+                        {
+                         "duration":400,
+                         "tileid":112
+                        }, 
+                        {
+                         "duration":400,
+                         "tileid":115
+                        }, 
+                        {
+                         "duration":400,
+                         "tileid":113
+                        }, 
+                        {
+                         "duration":400,
+                         "tileid":114
+                        }],
+                 "id":112
+                }, 
+                {
                  "id":120,
                  "properties":[
                         {
@@ -1246,6 +1266,15 @@
                         }]
                 }, 
                 {
+                 "animation":[
+                        {
+                         "duration":3400,
+                         "tileid":133
+                        }, 
+                        {
+                         "duration":400,
+                         "tileid":101
+                        }],
                  "id":133,
                  "properties":[
                         {
