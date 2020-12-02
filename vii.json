@@ -178,7 +178,7 @@
          "name":"bottom",
          "offsetx":-2,
          "offsety":2,
-         "opacity":0.43,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":45,
