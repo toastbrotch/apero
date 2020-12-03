@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.spiele-kostenlos-online.de\/sportspiele\/dartspiele\/multiplayer-dart-501\/"
+                 "value":"https:\/\/toastbrot.ch\/vii-game1.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -163,7 +163,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.spiele-kostenlos-online.de\/sportspiele\/billardspiele\/multiplayer-billard\/"
+                 "value":"https:\/\/toastbrot.ch\/vii-game2.html"
                 }],
          "type":"tilelayer",
          "visible":true,
