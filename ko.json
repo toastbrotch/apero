@@ -2426,7 +2426,7 @@
         {
          "columns":32,
          "firstgid":1217,
-         "image":"..\/workadventure-map-bitwaescherei\/tiles\/ZRPG Beach\/ZRPGBeach.png",
+         "image":"sparetiles\/ZRPG Beach\/ZRPGBeach.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -2439,7 +2439,7 @@
         {
          "columns":8,
          "firstgid":2241,
-         "image":"..\/workadventure-map-bitwaescherei\/tiles\/tileset-3\/d4hnezn-3844d292-7239-4608-bcc4-31254ddb37c6.png",
+         "image":"sparetiles\/tileset-3\/d4hnezn-3844d292-7239-4608-bcc4-31254ddb37c6.png",
          "imageheight":11000,
          "imagewidth":256,
          "margin":0,
@@ -2452,7 +2452,7 @@
         {
          "columns":8,
          "firstgid":4985,
-         "image":"..\/workadventure-map-bitwaescherei\/tiles\/bosque_expansion\/tileset_bosque_expansion_rtp___rpg_maker_xp_by_mataraelfay_d5dn3fn.png",
+         "image":"sparetiles\/bosque_expansion\/tileset_bosque_expansion_rtp___rpg_maker_xp_by_mataraelfay_d5dn3fn.png",
          "imageheight":6000,
          "imagewidth":256,
          "margin":0,
@@ -2465,7 +2465,7 @@
         {
          "columns":16,
          "firstgid":6481,
-         "image":"..\/workadventure-map-bitwaescherei\/tiles\/enviromental\/environment_tileset_by_reidyaro_d4v6k4z.png",
+         "image":"sparetiles\/enviromental\/environment_tileset_by_reidyaro_d4v6k4z.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2478,7 +2478,7 @@
         {
          "columns":8,
          "firstgid":6737,
-         "image":"..\/workadventure-map-bitwaescherei\/fantasy.png",
+         "image":"sparetiles\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -2491,7 +2491,7 @@
         {
          "columns":8,
          "firstgid":7801,
-         "image":"..\/workadventure-map-bitwaescherei\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
