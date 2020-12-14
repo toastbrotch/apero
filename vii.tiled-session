@@ -110,7 +110,8 @@
             "scaleInDock": 1
         },
         "ko.json#floortileset": {
-            "scaleInDock": 1.5
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
         },
         "ko.json#office_1": {
             "scaleInDock": 1
@@ -170,6 +171,7 @@
         "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json"
     ],
     "project": "vii.tiled-project",
+    "property.type": "bool",
     "recentFiles": [
         "vii.json",
         "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json",
