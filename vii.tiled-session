@@ -1,0 +1,180 @@
+{
+    "activeFile": "ko.json",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json": {
+            "scale": 2,
+            "selectedLayer": 29,
+            "viewCenter": {
+                "x": 1280,
+                "y": 623.75
+            }
+        },
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json#Graffitti": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json#NEON_coconut": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json#NEON_coconut_01": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json#ZRPGBeach": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json#d4hnezn-3844d292-7239-4608-bcc4-31254ddb37c6": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json#dusjagrs_tiles": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json#environment_tileset_by_reidyaro_d4v6k4z": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json#floors": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json#hackteria_spanduk_tilted": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json#harass": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json#tileset_bosque_expansion_rtp___rpg_maker_xp_by_mataraelfay_d5dn3fn": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json#xmas_deco": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json#zw": {
+            "scaleInDock": 1
+        },
+        "demo.json": {
+            "scale": 1.080392156862745,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.4555353901997,
+                "y": 561.3702359346643
+            }
+        },
+        "demo.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "demo.json#office_1": {
+            "scaleInDock": 1
+        },
+        "demo.json#shop-and-hospital": {
+            "scaleInDock": 1
+        },
+        "demo.json#spiele": {
+            "scaleInDock": 1
+        },
+        "ko.json": {
+            "scale": 1.080392156862745,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 622.9219600725953,
+                "y": 560.4446460980037
+            }
+        },
+        "ko.json#A5": {
+            "scaleInDock": 1.5
+        },
+        "ko.json#ZRPGBeach": {
+            "scaleInDock": 1
+        },
+        "ko.json#d4hnezn-3844d292-7239-4608-bcc4-31254ddb37c6": {
+            "scaleInDock": 1
+        },
+        "ko.json#environment_tileset_by_reidyaro_d4v6k4z": {
+            "scaleInDock": 1.5
+        },
+        "ko.json#fantasy": {
+            "scaleInDock": 1.5
+        },
+        "ko.json#floors": {
+            "scaleInDock": 1
+        },
+        "ko.json#floortileset": {
+            "scaleInDock": 1.5
+        },
+        "ko.json#office_1": {
+            "scaleInDock": 1
+        },
+        "ko.json#shop-and-hospital": {
+            "scaleInDock": 1
+        },
+        "ko.json#shopD": {
+            "scaleInDock": 1
+        },
+        "ko.json#spiele": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ko.json#tileset_bosque_expansion_rtp___rpg_maker_xp_by_mataraelfay_d5dn3fn": {
+            "scaleInDock": 1
+        },
+        "vii.json": {
+            "scale": 1.1121100917431193,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 718.4540504867184,
+                "y": 575.9321894076885
+            }
+        },
+        "vii.json#A5": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "vii.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "vii.json#holofotes": {
+            "scaleInDock": 1
+        },
+        "vii.json#office_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "vii.json#shop-and-hospital": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "vii.json#shopD": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "vii.json#spiele": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        }
+    },
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "vii.json",
+        "ko.json",
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json"
+    ],
+    "project": "vii.tiled-project",
+    "recentFiles": [
+        "vii.json",
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json",
+        "ko.json",
+        "demo.json"
+    ],
+    "tileset.embedInMap": true
+}
