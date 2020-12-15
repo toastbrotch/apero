@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/archive.org\/details\/epic_pinball_11"
+                 "value":"https:\/\/www.playdosgames.com\/play\/epic-pinball\/"
                 }],
          "type":"tilelayer",
          "visible":true,
