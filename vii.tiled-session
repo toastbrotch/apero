@@ -12,8 +12,8 @@
             "scale": 2,
             "selectedLayer": 29,
             "viewCenter": {
-                "x": 1241.5,
-                "y": 941.75
+                "x": 1280,
+                "y": 623.75
             }
         },
         "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json#Graffitti": {
@@ -85,10 +85,10 @@
         },
         "ko.json": {
             "scale": 1.080392156862745,
-            "selectedLayer": 11,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 694.1923774954628,
-                "y": 529.9001814882034
+                "x": 537.7676950998185,
+                "y": 530.8257713248639
             }
         },
         "ko.json#A5": {
@@ -133,9 +133,9 @@
         },
         "vii.json": {
             "scale": 1.1121100917431193,
-            "selectedLayer": 9,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 718.0044547104438,
+                "x": 717.5548589341693,
                 "y": 575.9321894076886
             }
         },
@@ -173,7 +173,7 @@
         "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json"
     ],
     "project": "vii.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "vii.json",
         "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json",
