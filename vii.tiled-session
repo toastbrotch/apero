@@ -83,9 +83,50 @@
         "demo.json#spiele": {
             "scaleInDock": 1
         },
+        "island.json": {
+            "scale": 0.9440707350901525,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 938.4889998898153,
+                "y": 786.4876776728983
+            }
+        },
+        "island.json#A5": {
+            "scaleInDock": 1
+        },
+        "island.json#ZRPGBeach": {
+            "scaleInDock": 1
+        },
+        "island.json#d4hnezn-3844d292-7239-4608-bcc4-31254ddb37c6": {
+            "scaleInDock": 1
+        },
+        "island.json#environment_tileset_by_reidyaro_d4v6k4z": {
+            "scaleInDock": 1
+        },
+        "island.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "island.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "island.json#office_1": {
+            "scaleInDock": 1
+        },
+        "island.json#shop-and-hospital": {
+            "scaleInDock": 1
+        },
+        "island.json#shopD": {
+            "scaleInDock": 1
+        },
+        "island.json#spiele": {
+            "scaleInDock": 1
+        },
+        "island.json#tileset_bosque_expansion_rtp___rpg_maker_xp_by_mataraelfay_d5dn3fn": {
+            "scaleInDock": 1
+        },
         "ko.json": {
             "scale": 1.080392156862745,
-            "selectedLayer": 1,
+            "selectedLayer": 14,
             "viewCenter": {
                 "x": 537.7676950998185,
                 "y": 530.8257713248639
