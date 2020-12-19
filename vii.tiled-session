@@ -214,7 +214,7 @@
         "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json"
     ],
     "project": "vii.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "vii.json",
         "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json",
