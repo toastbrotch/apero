@@ -172,6 +172,38 @@
         "ko.json#tileset_bosque_expansion_rtp___rpg_maker_xp_by_mataraelfay_d5dn3fn": {
             "scaleInDock": 1.5
         },
+        "vii-broken.json": {
+            "scale": 1.1121100917431193,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1150.9651872628278,
+                "y": 573.2346147500413
+            }
+        },
+        "vii-broken.json#A5": {
+            "scaleInDock": 1
+        },
+        "vii-broken.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "vii-broken.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "vii-broken.json#holofotes": {
+            "scaleInDock": 1
+        },
+        "vii-broken.json#office_1": {
+            "scaleInDock": 1
+        },
+        "vii-broken.json#shop-and-hospital": {
+            "scaleInDock": 1
+        },
+        "vii-broken.json#shopD": {
+            "scaleInDock": 1
+        },
+        "vii-broken.json#spiele": {
+            "scaleInDock": 1
+        },
         "vii.json": {
             "scale": 1.1121100917431193,
             "selectedLayer": 4,
