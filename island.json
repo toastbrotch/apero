@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"vii.json#start_baum"
+                 "value":"vii.json#start_ur"
                 }],
          "type":"tilelayer",
          "visible":true,

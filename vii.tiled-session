@@ -9,11 +9,11 @@
             "scaleInEditor": 1
         },
         "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json": {
-            "scale": 2,
+            "scale": 1,
             "selectedLayer": 29,
             "viewCenter": {
-                "x": 1241.5,
-                "y": 941.75
+                "x": 1378,
+                "y": 313.5
             }
         },
         "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json#Graffitti": {
@@ -85,7 +85,7 @@
         },
         "island.json": {
             "scale": 0.9440707350901525,
-            "selectedLayer": 7,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 1543.3165607668861,
                 "y": 528.0324677709627
@@ -174,15 +174,18 @@
         },
         "vii.json": {
             "scale": 1.1121100917431193,
-            "selectedLayer": 2,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 674.3936644118132,
-                "y": 574.1338063025904
+                "x": 296.7332123411978,
+                "y": 573.2346147500413
             }
         },
         "vii.json#A5": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "vii.json#fantasy": {
+            "scaleInDock": 1
         },
         "vii.json#floortileset": {
             "scaleInDock": 1
@@ -216,9 +219,9 @@
     "project": "vii.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "vii.json",
-        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json",
         "ko.json",
+        "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json",
+        "vii.json",
         "demo.json"
     ],
     "tileset.embedInMap": true
