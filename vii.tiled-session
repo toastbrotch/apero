@@ -85,9 +85,9 @@
         },
         "island.json": {
             "scale": 0.9440707350901525,
-            "selectedLayer": 8,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1479.7620009549346,
+                "x": 1478.702758291402,
                 "y": 528.0324677709627
             }
         },
@@ -170,6 +170,48 @@
             "scaleInEditor": 1
         },
         "ko.json#tileset_bosque_expansion_rtp___rpg_maker_xp_by_mataraelfay_d5dn3fn": {
+            "scaleInDock": 1.5
+        },
+        "tower.json": {
+            "scale": 0.9440707350901525,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 670.500606016087,
+                "y": 528.0324677709627
+            }
+        },
+        "tower.json#A5": {
+            "scaleInDock": 1.5
+        },
+        "tower.json#ZRPGBeach": {
+            "scaleInDock": 1.5
+        },
+        "tower.json#d4hnezn-3844d292-7239-4608-bcc4-31254ddb37c6": {
+            "scaleInDock": 1.5
+        },
+        "tower.json#environment_tileset_by_reidyaro_d4v6k4z": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "tower.json#fantasy": {
+            "scaleInDock": 1.5
+        },
+        "tower.json#floortileset": {
+            "scaleInDock": 1.5
+        },
+        "tower.json#office_1": {
+            "scaleInDock": 1.5
+        },
+        "tower.json#shop-and-hospital": {
+            "scaleInDock": 1.5
+        },
+        "tower.json#shopD": {
+            "scaleInDock": 1.5
+        },
+        "tower.json#spiele": {
+            "scaleInDock": 1.5
+        },
+        "tower.json#tileset_bosque_expansion_rtp___rpg_maker_xp_by_mataraelfay_d5dn3fn": {
             "scaleInDock": 1.5
         },
         "vii-broken.json": {
