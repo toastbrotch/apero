@@ -248,7 +248,7 @@
         },
         "vii.json": {
             "scale": 1.1121100917431193,
-            "selectedLayer": 1,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 514.3375680580763,
                 "y": 571.4362316449431
@@ -292,7 +292,7 @@
         "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json"
     ],
     "project": "vii.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "ko.json",
         "C:/Users/ivo/Documents/git/workadventure-map-bitwaescherei/main.json",
