@@ -241,7 +241,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.onlinepianist.com\/virtual-piano"
+                 "value":"https:\/\/virtualpiano.net\/"
                 }],
          "type":"tilelayer",
          "visible":true,
