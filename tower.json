@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"vii.json#schleuseor"
+                 "value":"vii.json#schleuse"
                 }],
          "type":"tilelayer",
          "visible":true,
