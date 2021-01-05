@@ -154,7 +154,7 @@
                  "value":"https:\/\/vii.meet.kompiuterzeugs.com\/whiteboard.html"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":45,
          "x":0,
          "y":0
@@ -172,7 +172,7 @@
                  "value":"https:\/\/jukebox.today\/vii"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":45,
          "x":0,
          "y":0
@@ -190,7 +190,7 @@
                  "value":"https:\/\/vii.meet.kompiuterzeugs.com\/pinball\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":45,
          "x":0,
          "y":0
@@ -208,7 +208,7 @@
                  "value":"https:\/\/vii.meet.kompiuterzeugs.com\/dart.html"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":45,
          "x":0,
          "y":0
@@ -226,7 +226,7 @@
                  "value":"https:\/\/vii.meet.kompiuterzeugs.com\/billard.html"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":45,
          "x":0,
          "y":0
